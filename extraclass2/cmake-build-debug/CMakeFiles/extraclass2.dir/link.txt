@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/extraclass2.dir/main.cpp.o CMakeFiles/extraclass2.dir/Suma.cpp.o CMakeFiles/extraclass2.dir/Resta.cpp.o CMakeFiles/extraclass2.dir/Multiplicacion.cpp.o CMakeFiles/extraclass2.dir/Division.cpp.o  -o extraclass2.exe -Wl,--out-implib,libextraclass2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

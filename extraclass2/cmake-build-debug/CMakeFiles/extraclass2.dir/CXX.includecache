@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/grero/CLionProjects/extraclass2/Division.h
+
+/cygdrive/c/Users/grero/CLionProjects/extraclass2/Multiplicacion.h
+
+/cygdrive/c/Users/grero/CLionProjects/extraclass2/Resta.cpp
+Resta.h
+/cygdrive/c/Users/grero/CLionProjects/extraclass2/Resta.h
+
+/cygdrive/c/Users/grero/CLionProjects/extraclass2/Resta.h
+
+/cygdrive/c/Users/grero/CLionProjects/extraclass2/Suma.h
+
+/cygdrive/c/Users/grero/CLionProjects/extraclass2/main.cpp
+iostream
+-
+Suma.h
+/cygdrive/c/Users/grero/CLionProjects/extraclass2/Suma.h
+Resta.h
+/cygdrive/c/Users/grero/CLionProjects/extraclass2/Resta.h
+Multiplicacion.h
+/cygdrive/c/Users/grero/CLionProjects/extraclass2/Multiplicacion.h
+Division.h
+/cygdrive/c/Users/grero/CLionProjects/extraclass2/Division.h
+
